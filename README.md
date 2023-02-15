@@ -49,7 +49,7 @@ technologies.
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<img src="https://octodex.github.com/images/privateinvestocat.jpg" widht="180px" height="350px" align="right">
+<img src="https://octodex.github.com/images/privateinvestocat.jpg" widht="180px" height="300px" align="right">
 <a href="https://visitcount.itsvg.in">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-masood-ur-rehman&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
